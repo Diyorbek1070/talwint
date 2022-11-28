@@ -1,0 +1,9 @@
+.Anton{
+    font-family: 'Anton', sans-serif;
+}
+.bacimg{
+    background-image: url("./images/header-bg.jpg");
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
